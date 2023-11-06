@@ -10,5 +10,7 @@ return {
     <nav>
     <NavLink to='/' style={NavLinkStyles}>homepage</NavLink>
     <NavLink to='about' style={NavLinkStyles}>about</NavLink>
+    <NavLink to='Products' style={NavLinkStyles}>Products</NavLink>
+
     </nav>)
 }
